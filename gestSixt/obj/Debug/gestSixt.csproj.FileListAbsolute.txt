@@ -1,0 +1,11 @@
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\bin\Debug\gestSixt.exe.config
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\bin\Debug\gestSixt.exe
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\bin\Debug\gestSixt.pdb
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\bin\Debug\MaterialSkin.dll
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\obj\Debug\gestSixt.csprojAssemblyReference.cache
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\obj\Debug\gestSixt.frm_gestSixt.resources
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\obj\Debug\gestSixt.Properties.Resources.resources
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\obj\Debug\gestSixt.csproj.GenerateResource.cache
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\obj\Debug\gestSixt.csproj.CopyComplete
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\obj\Debug\gestSixt.exe
+D:\Users\SIMON\Desktop\SIXT\gestSixt\gestSixt\obj\Debug\gestSixt.pdb
